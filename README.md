@@ -1,4 +1,4 @@
 # M05Tutorial-DeployNViews
 
-All content is experimental  
-Call this a maybe it wiil work area  
+Begin learning about full-stack Python development  
+using Django  
